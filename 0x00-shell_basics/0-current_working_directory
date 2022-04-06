@@ -1,2 +1,2 @@
-#!/bin/basih
-pwd -L 
+#!/bin/bash
+pwd -L
